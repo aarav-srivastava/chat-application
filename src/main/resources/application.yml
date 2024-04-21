@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: chat-application
+
+server:
+  port: 6969
